@@ -1,4 +1,6 @@
-# Free Sample Management Tool -- Based on google APIs and python.
+# Free Sample Management Tool
+
+Based on google APIs and python.
 
 ## 1. Main table
 --------
